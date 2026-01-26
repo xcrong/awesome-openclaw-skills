@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/VoltAgent/voltagent">
-<img width="1500" height="500" alt="Group 64" src="https://github.com/user-attachments/assets/c1b0ceac-fa86-44f0-ba45-92187ed9582e" />
+<img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/fac18063-135d-4235-a015-a251f29d90f3" />
 </a>
 
 <br/>
