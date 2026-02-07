@@ -63,17 +63,17 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ## Why This List Exists?
 
-[OpenClaw](https://www.clawhub.ai/)'s public registry (ClawHub) currently hosts **5,705 community-built skills**. This awesome list is a **curated subset of 3,009 skills** — we review every skill and exclude anything that doesn't belong. Here's what we filtered out:
+[OpenClaw](https://www.clawhub.ai/)'s public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **3,009 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
 | Duplicate / Similar name | 492 |
 | Crypto / Blockchain / Finance / Trade | 669 |
-| Possibly spam — bulk accounts, non-English, bot accounts, test/junk | 1,177 |
+| Possibly spam — bulk accounts, bot accounts, test/junk | 1,177 |
 | Malicious — identified by security audits published by researchers (excluding VirusTotal) | 396 |
 | **Total not taken from OpenClaw's official skill registry** | **2,734** |
 
-> **Disclaimer:** Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
+> **Disclaimer:** Inclusion in this list does **not** guarantee a skill is safe or trustworthy. OpenClaw now has a VirusTotal partnership that provides security scanning for skills. Before installing a skill, visit its page on [ClawHub](https://www.clawhub.ai/) and check the VirusTotal report to see if it's flagged as risky. We also recommend reviewing a skill's source code before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
 
 If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
 
