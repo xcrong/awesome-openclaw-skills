@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 2999 community-built OpenClaw skills, organized by category.
+    <strong>Discover 3002 community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -19,7 +19,8 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-2999-blue?style=flat-square)
+[![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
+![Skills Count](https://img.shields.io/badge/skills-3002-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -63,7 +64,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ## Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **2,999 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **3,002 skills**. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -90,17 +91,17 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 | | | |
 |---|---|---|
-| [Coding Agents & IDEs](#coding-agents--ides) (133) | [Marketing & Sales](#marketing--sales) (145) | [Communication](#communication) (133) |
-| [Git & GitHub](#git--github) (66) | [Productivity & Tasks](#productivity--tasks) (134) | [Speech & Transcription](#speech--transcription) (66) |
+| [Coding Agents & IDEs](#coding-agents--ides) (133) | [Marketing & Sales](#marketing--sales) (143) | [Communication](#communication) (132) |
+| [Git & GitHub](#git--github) (66) | [Productivity & Tasks](#productivity--tasks) (135) | [Speech & Transcription](#speech--transcription) (65) |
 | [Moltbook](#moltbook) (51) | [AI & LLMs](#ai--llms) (287) | [Smart Home & IoT](#smart-home--iot) (56) |
-| [Web & Frontend Development](#web--frontend-development) (201) | [Data & Analytics](#data--analytics) (46) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
-| [DevOps & Cloud](#devops--cloud) (212) | [Finance](#finance) (22) | [Calendar & Scheduling](#calendar--scheduling) (51) |
+| [Web & Frontend Development](#web--frontend-development) (202) | [Data & Analytics](#data--analytics) (46) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [DevOps & Cloud](#devops--cloud) (212) | [Finance](#finance) (22) | [Calendar & Scheduling](#calendar--scheduling) (50) |
 | [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (80) | [PDF & Documents](#pdf--documents) (67) |
 | [Image & Video Generation](#image--video-generation) (60) | [Notes & PKM](#notes--pkm) (100) | [Self-Hosted & Automation](#self-hosted--automation) (25) |
-| [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (62) |
-| [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (62) |
-| [Clawdbot Tools](#clawdbot-tools) (121) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19) |
-| [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (55) | |
+| [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (63) |
+| [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (61) |
+| [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
+| [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
 
 
 
