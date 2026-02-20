@@ -2981,6 +2981,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [wpclaw-lite](https://github.com/openclaw/skills/tree/main/skills/magnum-opus-v1/wpclaw-lite/SKILL.md) - Connects to a WooCommerce store via the WPClaw Connector
 - [youbaolian](https://github.com/openclaw/skills/tree/main/skills/peterfzh/youbaolian/SKILL.md) - Manage youbaolian, orders, users, organ REST API.
 - [zentao](https://github.com/openclaw/skills/tree/main/skills/leeguooooo/zentao/SKILL.md) - Use the zentao CLI to login and query ZenTao products and bugs.
+- [criticaster](https://github.com/openclaw/skills/blob/main/skills/gglucass/criticaster/SKILL.md) - Find products with aggregated critic reviews, normalized into a single score.
 
 </details>
 
